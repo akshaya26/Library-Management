@@ -1,2 +1,2 @@
 # Library-Management
-A system application
+A simple Python,Mysql based system application 
